@@ -113,11 +113,9 @@ document.body.append(pdiv)
 
 
 async function getdata() {
-    var url = "http://makeup-api.herokuapp.com/api/v1/products.json?"
+    var url = "https://makeup-api.herokuapp.com/api/v1/products.json?"
     var brand = document.getElementById('in1').value
-    console.log(brand)
     var product = document.getElementById('in2').value
-    console.log(product)
     var result = document.getElementById('result')
     
     result.innerHTML = '';
