@@ -56,7 +56,7 @@ in2.setAttribute('name', 'product')
 in2.setAttribute('id', 'in2')
 
 var popt=document.createElement('option')
-popt.innerHTML = "Select the produuct"
+popt.innerHTML = "Select the product"
 var popt1=document.createElement('option')
 popt1.setAttribute('value','Lipstick')
 popt1.innerHTML="Lipstick"
