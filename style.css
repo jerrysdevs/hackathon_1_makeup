@@ -1,0 +1,74 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+}
+.sp{
+  font-family: 'Dancing Script', cursive;
+}
+body {
+  background-color: lightgrey;
+  background-repeat: repeat;
+}
+select{
+  border-radius: 20px;
+}
+.container {
+  padding: 2px 16px;
+}
+.fa {
+  color: blue;
+}
+button {
+  margin-top: 20px;
+}
+.row {
+  justify-content: center;
+}
+
+h3{
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+}
+h6{
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+}
+.box-center {
+  justify-content: center;
+  border-radius: 20px;
+  background-color: rgb(201, 199, 199);
+  padding: 60px 60px;
+}
+p {
+  padding-bottom: 0px;
+  margin-top: 10px;
+}
+.box {
+  border-radius: 10px;
+  padding-left: 60px 0px;
+  margin: 10px;
+  width: 100;
+}
+
+p {
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+.p1{
+  font-family: sans-serif;
+  font-weight:lighter;
+  font-size: 18px;
+}
+
+.text {
+  margin: 20px 0px;
+}
+
+span {
+  font-size: 15px;
+}
