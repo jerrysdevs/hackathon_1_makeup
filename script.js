@@ -155,7 +155,7 @@ async function getdata() {
             a.setAttribute('role','button')
             a.setAttribute('target','_blank')
             a.setAttribute('href', `${data[i].product_link}`)
-            a.innerHTML = "Buy me"
+            a.innerHTML = `Buy me @ ${data[i].price}$`
 
             var des = document.createElement('p')
             des.setAttribute('class','p1')
